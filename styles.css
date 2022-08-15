@@ -10961,7 +10961,7 @@ body {
 .container3 {
   color: #cacaca;
   position: absolute;
-  margin-top: 740px;
+  margin-top: 690px;
   margin-left: 215px;
   width: 500px;
   height: 50px;
@@ -10974,6 +10974,25 @@ body {
     width: 500px;
     height: 50px;
     box-shadow: 5px 8px 12px black;
-    margin-top: 740px;
+    margin-top: 680px;
     margin-left: 650px;
+}
+
+.contenedorpag2 {
+  color: #cacaca;
+  box-shadow: 5px 8px 12px black;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 510px;
+}
+
+.imagenperfil {
+  color: #cacaca;
+  position: fixed;
+  margin-top: -300px;
+  margin-left: 950px;
+}
+
+.class contpag3 {
+  
 }
