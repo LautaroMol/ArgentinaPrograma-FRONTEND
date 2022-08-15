@@ -10993,6 +10993,24 @@ body {
   margin-left: 950px;
 }
 
-.class contpag3 {
-  
+.contpag3 {
+  color: #cacaca;
+  box-shadow: 5px 8px 12px black;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 510px;
+}
+
+.imgpag3 {
+  margin-left: 950px;
+  margin-top: 100px;
+  position: fixed;
+}
+
+.textopag4 {
+  color: #cacaca;
+  box-shadow: 5px 8px 12px black;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 510px;
 }
