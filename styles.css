@@ -11014,3 +11014,44 @@ body {
   margin-left: 100px;
   width: 510px;
 }
+
+.imgpag4 {
+  margin-left: 950px;
+  margin-top: -550px;
+  position: fixed;
+  height: 300px;
+  width: 800px;
+}
+
+.visual {
+  position: absolute;
+  margin: 50px 50px;
+  height: 60px;
+  width: 60px;
+}
+
+.csharp img{
+  width: 128px;
+  height: 128px;
+  margin: 50px 150px;
+  position: absolute;
+  object-fit: contain;
+}
+
+.ruby img{
+  width: 300px;
+  height: 300px;
+  margin: 200px 50px;
+  position: absolute;
+  object-fit: contain;
+}
+
+.python {
+  margin: 200px 500px;
+  position: absolute;
+}
+
+.javascript {
+    margin: 300px 500px;
+    position: absolute;
+}
